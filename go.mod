@@ -1,4 +1,4 @@
-module go.uber.org/multierr
+module github.com/nk-gears/multierr/v1
 
 go 1.12
 
